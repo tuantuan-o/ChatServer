@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/tuantuan/chatserver/build/src/server",
+  "command": "/usr/bin/g++   -I/home/tuantuan/chatserver/include -I/home/tuantuan/chatserver/include/server -I/home/tuantuan/chatserver/include/server/db -I/home/tuantuan/chatserver/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/chatserver.cpp.o -c /home/tuantuan/chatserver/src/server/chatserver.cpp",
+  "file": "/home/tuantuan/chatserver/src/server/chatserver.cpp"
+},
+{
+  "directory": "/home/tuantuan/chatserver/build/src/server",
+  "command": "/usr/bin/g++   -I/home/tuantuan/chatserver/include -I/home/tuantuan/chatserver/include/server -I/home/tuantuan/chatserver/include/server/db -I/home/tuantuan/chatserver/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/chatservice.cpp.o -c /home/tuantuan/chatserver/src/server/chatservice.cpp",
+  "file": "/home/tuantuan/chatserver/src/server/chatservice.cpp"
+},
+{
+  "directory": "/home/tuantuan/chatserver/build/src/server",
+  "command": "/usr/bin/g++   -I/home/tuantuan/chatserver/include -I/home/tuantuan/chatserver/include/server -I/home/tuantuan/chatserver/include/server/db -I/home/tuantuan/chatserver/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/main.cpp.o -c /home/tuantuan/chatserver/src/server/main.cpp",
+  "file": "/home/tuantuan/chatserver/src/server/main.cpp"
+},
+{
+  "directory": "/home/tuantuan/chatserver/build/src/server",
+  "command": "/usr/bin/g++   -I/home/tuantuan/chatserver/include -I/home/tuantuan/chatserver/include/server -I/home/tuantuan/chatserver/include/server/db -I/home/tuantuan/chatserver/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/usermodel.cpp.o -c /home/tuantuan/chatserver/src/server/usermodel.cpp",
+  "file": "/home/tuantuan/chatserver/src/server/usermodel.cpp"
+},
+{
+  "directory": "/home/tuantuan/chatserver/build/src/server",
+  "command": "/usr/bin/g++   -I/home/tuantuan/chatserver/include -I/home/tuantuan/chatserver/include/server -I/home/tuantuan/chatserver/include/server/db -I/home/tuantuan/chatserver/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/db/db.cpp.o -c /home/tuantuan/chatserver/src/server/db/db.cpp",
+  "file": "/home/tuantuan/chatserver/src/server/db/db.cpp"
+}
+]
